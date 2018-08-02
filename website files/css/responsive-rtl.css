@@ -1,14 +1,9 @@
-/* ----------------------------------------------------------------
-	Responsive CSS
------------------------------------------------------------------*/
-
-
+/*Responsive CSs*/
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
 
-	/* Portfolio - Both Sidebars - Items - 2 Columns
-	-----------------------------------------------------------------*/
+	/* Portfolio - Both Sidebars - Items - 2 Columns**/
 
 	.bothsidebar .portfolio.portfolio-3 { margin: 0 0 -20px -20px; }
 
@@ -147,16 +142,14 @@
 		right: auto;
 	}
 
-	/* Responsive Sticky Header
-	-----------------------------------------------------------------*/
+	/* Responsive Sticky Header**/
 
 	.responsive-sticky-header #header-wrap {
 		right: 0;
 		left: auto;
 	}
 
-	/* Portfolio - Items - 1 Column - Full Width
-	-----------------------------------------------------------------*/
+	/* Portfolio - Items - 1 Column - Full Width**/
 
 	.portfolio-1.portfolio-fullwidth .portfolio-overlay a {
 		right: 50%;
@@ -171,16 +164,14 @@
 	.entry-meta li { margin: 0 0 10px 10px; }
 
 
-	/* Blog - Grid
-	-----------------------------------------------------------------*/
+	/* Blog - Grid**/
 
 	.post-grid {
 		margin-left: -20px;
 		margin-right: 0;
 	}
 
-	/* Blog - Grid - 3 Columns
-	-----------------------------------------------------------------*/
+	/* Blog - Grid - 3 Columns**/
 
 	.post-grid.grid-2,
 	.post-grid.grid-3 {
@@ -250,16 +241,14 @@
 	#page-title #portfolio-navigation,
 	#portfolio-ajax-title #portfolio-navigation { right: 0; }
 
-	/* Portfolio - Filter
-	-----------------------------------------------------------------*/
+	/* Portfolio - Filter**/
 
 	.portfolio-filter li a {
 		border-right: none;
 		border-left: none;
 	}
 
-	/* Blog
-	-----------------------------------------------------------------*/
+	/* Blog**/
 
 	.entry-meta li { margin: 0 0 10px 10px; }
 
@@ -299,8 +288,7 @@
 		padding-right: 0;
 	}
 
-	/* Portfolio - Items
-	-----------------------------------------------------------------*/
+	/* Portfolio - Items**/
 
 	.portfolio:not(.portfolio-1) { margin: 0 0 -6px -6px; }
 
